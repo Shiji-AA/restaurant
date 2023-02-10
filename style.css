@@ -1,0 +1,203 @@
+* {
+    font-family: poppins;
+    color: #192f60;
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    background-color:#cf0505;
+    height: 80px;
+    width: 100%;
+}
+.logo {
+border-radius: 50%;
+background-color: white;
+height: 51px;
+width: 51px;
+padding :10px 15px 10px;
+font-size: 33px;
+font-weight: 700;
+color:#cf0505;
+position: relative;
+left:112px;
+top:15px
+}
+.login {
+    position: relative;
+    left : 1015px;
+    padding: 10px;
+    top : 15px;
+
+}
+.create {
+    position: relative;
+    left:1016px;
+    border : 1px solid white;
+    padding: 10px 15px 10px;
+    top: 15px;
+    }
+a {
+    text-decoration: none;
+    color: white;
+}
+.layout {
+width: 100%;
+height: 800px;
+background-color: #fbfbfb;
+}
+.headline {
+    position: relative;
+    left: 113px;
+    top : 20px;
+    color:#192f60;
+    padding: 10px 0px 40px;   
+}
+.filter {
+    background-color:white;
+    position : relative;
+    box-shadow:0 3px 6px 0;
+    width: 260px;
+    height :740px;
+    left: 113px;
+    margin: 20px;
+}
+.result1 {
+    background-color:white;
+    width:794px;
+    height: 291px;
+    box-shadow: 0 3px 6px 0;
+    position: relative;
+    left: 120%;
+    top :-95%;
+}
+img {
+height: 120px;
+width: 120px;
+border-radius:20px;
+position: relative;
+top :20px;
+left :20px;
+}
+.bigchill {
+    position: relative;
+    left: 180px;
+    bottom: 100px;
+}
+.fort {
+    position: relative;
+    left: 180px;
+    bottom: 90px;
+}
+hr {
+    position: relative;
+    width:700px;
+    left:20px;
+    bottom:50px;
+}
+table {
+    position: relative;
+    left:20px;
+    bottom: 20px;
+}
+th {
+    position: relative;
+    left:20px;
+}
+.rupees {
+    position: relative;
+    left:20px;
+    
+}
+.result2 {
+    background-color: white;
+    width:794px;
+    height: 291px;
+    box-shadow: 0 3px 6px 0;
+    position:relative;
+    left:33%;
+    top :-54%;
+}
+img {
+    height: 120px;
+    width: 120px;
+    border-radius:20px;
+    position: relative;
+    top :20px;
+    left :20px;
+    }
+.bakeshop{
+    position: relative;
+    left: 180px;
+    bottom: 100px;
+    }
+    .address {
+    position: relative;
+    left: 180px;
+    bottom: 80px;
+}
+.number {
+    position: relative;
+    background-color: white;
+    width: 450px;
+    height: 70px;
+    left:46%;
+    bottom :380px;
+}
+li {
+    list-style: none;
+    display: inline;
+    box-shadow: 0 3px 6px 0;
+    border: 1px solid #bfbfbf;
+    padding: 10px 15px 10px 15px ;
+    margin :5px;
+    border-radius: 5px;
+}
+.one{
+    background-color: #bfbfbf;
+}
+.filter-headline {
+    position: relative;
+    padding : 17px 0px 0px 16px;
+}
+.select-location  {
+padding: 05px 20px 0px;;
+}
+input {
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+label{
+    display: list-item;
+    list-style: none;
+    position: relative;
+    padding:0px 0px;
+    font-size: xx-small;
+    left:40px;
+    top:28px;
+}
+.cuisine {
+    margin:20px;
+    top: 600px;
+}
+.cost {
+    position: relative;
+        
+}
+.costfortwo {
+    margin:20px;
+    top: 600px;
+}
+.sort {
+    margin-left: 20px;
+    padding: 0px 0px; 
+    top:10px;
+}
+.sort1 {
+    position: relative;
+    padding: 0px;
+}
